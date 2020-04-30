@@ -1,0 +1,5 @@
+模块安装 npm insatll
+安装Vuex npm install vuex --save
+安装axios npm install axios --sava
+安装Mint-UI npm insatll mint-ui --save 
+运行  npm run dev 即可
