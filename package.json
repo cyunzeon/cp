@@ -14,7 +14,7 @@
     "better-scroll": "^1.13.4",
     "jquery": "^3.5.0",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mint-ui": "^2.2.13",
     "px2rem-loader": "^0.1.9",
     "qrcodejs2": "0.0.2",
